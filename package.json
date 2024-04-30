@@ -4,7 +4,7 @@
   "description": "A npm package to check if this is client or server",
   "main": "index.js",
   "scripts": {
-    "test": "yarn run test"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
