@@ -1,5 +1,5 @@
 {
-  "name": "isserver",
+  "name": "server-check",
   "version": "1.0.0",
   "description": "A npm package to check if this is client or server",
   "main": "index.js",
