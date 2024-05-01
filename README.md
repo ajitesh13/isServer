@@ -1,4 +1,4 @@
-## isServer
+## isserver
 
 A simple utility function to determine if JavaScript code is currently executing on the client or server side.
 
@@ -7,19 +7,19 @@ A simple utility function to determine if JavaScript code is currently executing
 Install via npm:
 
 ```bash
-npm install isServer
+npm install isserver
 ```
 
 Or via yarn:
 
 ```bash
-yarn add isServer
+yarn add isserver
 ```
 
 ### Usage
 
 ```javascript
-import { isServer } from "isServer";
+import { isServer } from "isserver";
 
 // Example usage
 if (isServer()) {
@@ -38,7 +38,7 @@ if (isServer()) {
 ### Example
 
 ```javascript
-import { isServer } from "isServer";
+import { isServer } from "isserver";
 
 if (isServer()) {
   // Code to execute on the server side

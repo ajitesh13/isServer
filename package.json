@@ -11,12 +11,24 @@
     "url": "git+https://github.com/ajitesh13/isServer.git"
   },
   "keywords": [
+    "is-server",
     "server",
-    "side",
-    "rendering"
+    "client",
+    "javascript",
+    "utility",
+    "npm",
+    "package",
+    "node.js",
+    "frontend",
+    "backend",
+    "universal",
+    "environment",
+    "detection",
+    "runtime",
+    "context"
   ],
   "author": "ajitesh13",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ajitesh13/isServer/issues"
   },
