@@ -1,5 +1,5 @@
 {
-  "name": "server-check",
+  "name": "js-runtime-check",
   "version": "1.0.0",
   "description": "A npm package to check if this is client or server",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajitesh13/isServer.git"
+    "url": "git+https://github.com/ajitesh13/js-runtime-check.git"
   },
   "keywords": [
     "server",
@@ -18,7 +18,7 @@
   "author": "ajitesh13",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajitesh13/isServer/issues"
+    "url": "https://github.com/ajitesh13/js-runtime-check/issues"
   },
-  "homepage": "https://github.com/ajitesh13/isServer#readme"
+  "homepage": "https://github.com/ajitesh13/js-runtime-check#readme"
 }

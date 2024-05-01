@@ -1,4 +1,4 @@
-## server-check
+## js-runtime-check
 
 A simple utility function to determine if JavaScript code is currently executing on the client or server side.
 
@@ -7,19 +7,19 @@ A simple utility function to determine if JavaScript code is currently executing
 Install via npm:
 
 ```bash
-npm install server-check
+npm install js-runtime-check
 ```
 
 Or via yarn:
 
 ```bash
-yarn add server-check
+yarn add js-runtime-check
 ```
 
 ### Usage
 
 ```javascript
-import { isServer } from "server-check";
+import { isServer } from "js-runtime-check";
 
 // Example usage
 if (isServer()) {
@@ -38,7 +38,7 @@ if (isServer()) {
 ### Example
 
 ```javascript
-import { isServer } from "server-check";
+import { isServer } from "js-runtime-check";
 
 if (isServer()) {
   // Code to execute on the server side
