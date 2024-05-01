@@ -11,9 +11,20 @@
     "url": "git+https://github.com/ajitesh13/js-runtime-check.git"
   },
   "keywords": [
+    "javascript",
+    "runtime",
+    "environment",
+    "check",
+    "client",
     "server",
-    "side",
-    "rendering"
+    "universal",
+    "context",
+    "detection",
+    "node.js",
+    "frontend",
+    "backend",
+    "universal-javascript",
+    "web-development"
   ],
   "author": "ajitesh13",
   "license": "ISC",
